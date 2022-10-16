@@ -7,6 +7,7 @@ Computational optimal transport and its applications in Machine learning.
 - [x] Discretize a continuous distribution
 - [x] Discrete optimal transport as a linear program
 - [x] Monge formulation of the optimal transport problem as minimum cost bipartite matching
+- [x] Relaxing the Monge formulation
 - [] Semi-discrete optimal transport
 
 ## Regularization

@@ -11,7 +11,7 @@ Computational optimal transport and its applications in Machine learning.
 	- Euclidian space
 
 ## Semi-discrete optimal transport
-- [] Gradient ascent
+- [x] Gradient ascent
 
 ## Wasserstein
 - [] Wasserstein distance
@@ -35,6 +35,3 @@ Computational optimal transport and its applications in Machine learning.
 - [] Generative models
 	- Wasserstein Generative Adverserial Network
 
-## Reference
-1. [Le transport optimal: de Gaspard Monge à la science des données](https://speakerdeck.com/gpeyre/le-transport-optimal-de-gaspard-monge-a-la-science-des-donnees) by Gabriel Peyré.
-2. [Optimal transport in high-energy physics: Theory and applications](https://indico.cern.ch/event/1203474/) by Philipp Windischhofer
